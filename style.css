@@ -1,0 +1,60 @@
+.body{
+	font-family:'Times New Roman', Times, serif;
+}
+
+.size{
+	width: 20%;
+	display: block;
+  	margin: auto;
+}
+
+.div1{
+	width: 80%;
+	background-color: beige;
+	padding-right: 10px;
+	padding-left: 10px;
+	max-width: 1000px;
+	border-left: 2px solid rgba(0, 0, 0, 1);
+	border-right: 2px solid rgba(0, 0, 0, 1);
+	border-top: 2px solid rgba(0, 0, 0, 1);
+	border-bottom: 2px solid rgba(0, 0, 0, 1);
+}
+
+p{
+	text-align: justify;
+}
+
+.menu{
+	float: right;
+	margin-right: 100px;
+	height: 200px;
+	width: 300px;
+	background-color:darkgoldenrod;
+	border-left: 2px solid rgba(0, 0, 0, 1);
+	border-right: 2px solid rgba(0, 0, 0, 1);
+	border-top: 2px solid rgba(0, 0, 0, 1);
+	border-bottom: 2px solid rgba(0, 0, 0, 1);
+
+}
+
+h3{
+	font-size: 25px;
+	text-align: center;
+}
+
+a:hover{
+	color:crimson;
+}
+
+a{
+	color:darkblue;
+}
+
+
+.symbol{
+	width: 20px;
+	height: 20px;
+	margin-left: 280px;
+	margin-top: -80px;
+	background: linear-gradient(rgb(255, 0, 0)25%, rgb(0, 255, 0)50%, rgb(0, 0, 255)25%);
+}
